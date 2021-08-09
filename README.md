@@ -4,7 +4,7 @@
 - 🏢 IT company for 2 years.
 - 🔗 www.linkedin.com/in/영민-박-940445212 (for detail)
 
-## 💻 Stacks
+## 💻 Stack
 
 ### Most Programming Languages & Frameworks etc..
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -22,7 +22,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-### Techs that I've uded at least once
+### Techs that I've used at least once
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -35,3 +35,7 @@
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## 🐣 BOJ
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=ympark99)](https://solved.ac/ympark99)
