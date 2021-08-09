@@ -1,4 +1,4 @@
-# Youngmin Park 😃
+# Welcome to my profile!
 ## ✋ About me
 - 🏫 Soongsil University (Junior / take time off from school)
 - 🏢 IT company for 2 years.
