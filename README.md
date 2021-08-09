@@ -1,7 +1,7 @@
 # Welcome to my profile!
 ## ✋ About me
 - 🏫 Soongsil University (Junior / take time off from school)
-- 🏢 IT company for 2 years.
+- 🏢 Software Engineer for 2 years. (IT company)
 - 🔗 www.linkedin.com/in/영민-박-940445212 (for detail)
 
 ## 💻 Stack
