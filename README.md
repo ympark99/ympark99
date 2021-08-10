@@ -1,4 +1,5 @@
 # Welcome to my profile!
+
 ## ✋ About me
 - 🏫 Soongsil University ( Junior / take time off from school )
 - 🏢 Software Engineer for 2 years.
@@ -7,6 +8,7 @@
 ## 💻 Stack
 
 ### Most Programming Languages & Frameworks etc..
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -36,6 +38,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🐣 BOJ
+
+## 🐣 STATS
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ympark99&hide=stars,issues&show_icons=true&theme=radical)
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ympark99)](https://solved.ac/ympark99)
