@@ -3,7 +3,7 @@
 ## ✋ About me
 - 🏫 Soongsil University ( Junior / take time off from school )
 - 🏢 Software Engineer for 2 years. (Working)
-- 🔗 www.linkedin.com/in/영민-박-940445212 (For detail)
+- 🔗 www.linkedin.com/in/ymparkprofile (For detail)
 
 ## 💻 Stack
 
