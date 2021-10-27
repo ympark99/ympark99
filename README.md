@@ -2,7 +2,7 @@
 
 ## ✋ About me
 - 🏫 Soongsil University ( Junior / take time off from school )
-- 🏢 Software Engineer for 2 years. (Working)
+- 🏢 Software Engineer for 2 years.
 - 🔗 www.linkedin.com/in/ymparkprofile (For detail)
 
 ## 💻 Stack
