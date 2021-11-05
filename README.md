@@ -1,7 +1,7 @@
 # Welcome to my profile!
 
 ## ✋ About me
-- 🏫 Soongsil University ( Junior / take time off from school )
+- 🏫 Soongsil University - Computer Science & Engineering ( Junior / take time off from school )
 - 🏢 Software Engineer for 2 years.
 - 🔗 www.linkedin.com/in/ymparkprofile (For detail)
 
