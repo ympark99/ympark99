@@ -4,6 +4,7 @@
 - 🏫 Soongsil University - Computer Science & Engineering ( Junior / take time off from school )
 - 🏢 Software Engineer for 2 years.
 - 🔗 www.linkedin.com/in/ymparkprofile (For detail)
+- 📗 https://0m1n.tistory.com/ (Blog)
 
 ## 💻 Stack
 
