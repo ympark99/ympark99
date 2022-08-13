@@ -1,4 +1,4 @@
-# Welcome to my profile!
+## Welcome to my profile!
 
 ## ✋ About me
 - 🏫 Soongsil University - Computer Science & Engineering ( Junior )
