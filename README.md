@@ -45,7 +45,7 @@
 ![docker](https://img.shields.io/badge/docker-007396?style=flat-square&logo=docker&logoColor=white)
 
 ## 🐣 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ympark99&hide=stars,issues&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ympark99&hide=stars,issues&show_icons=true&theme=radical) -->
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ympark99)](https://solved.ac/ympark99)
