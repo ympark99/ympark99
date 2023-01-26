@@ -1,7 +1,7 @@
 ## Welcome to my profile!
 
 ## ✋ About me
-- 🏫 Soongsil University - Computer Science & Engineering ( Junior )
+- 🏫 Soongsil University - Computer Science & Engineering ( Senior )
 - 🏢 Software Engineer for 2 years.
 - 🔗 www.linkedin.com/in/ymparkprofile (For detail)
 - 📗 https://0m1n.tistory.com/ (Blog)
