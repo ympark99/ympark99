@@ -77,7 +77,7 @@
 | Fun.D | 2021.02 - 2021.06 |
 | UMC (University MakeUs Challenge) | 2022.03 - 2023.02 |
 | 한국대학생IT경영학회(KUSITMS) | 2021.08 - 2021.11, 2022.08 - 2022.11 |
-| 프로그라피 | 2023.02 - |
+| 프로그라피 | 2023.02 - 2023.08 |
 
 ## 🐣 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ympark99&hide=stars,issues&show_icons=true&theme=radical)
