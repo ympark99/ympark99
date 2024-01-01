@@ -1,5 +1,15 @@
 ## Welcome to my profile!
 
+- 🔗 www.linkedin.com/in/ymparkprofile (For detail)
+- 📗 https://0m1n.tistory.com (Blog)
+
+## 🏙 Career
+
+- Shinhan Card &nbsp;<sub>(Jan 2024 ~)</sub>
+- MiriCanvas &nbsp;<sub>(Mar 2023 ~ Jun 2023)</sub>
+- Edge Cross &nbsp;<sub>(Nov 2020 ~ Dec 2021)</sub>
+- Korea Digital Control &nbsp;<sub>(Jan 2020 ~ Oct 2020)</sub>
+
 ## 💻 Stack
 
 ### Back-end
@@ -80,7 +90,6 @@
 | 프로그라피 | 2023.02 - 2023.08 |
 
 ## 🐣 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ympark99&hide=stars,issues&show_icons=true&theme=radical)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ympark99)](https://solved.ac/ympark99)
